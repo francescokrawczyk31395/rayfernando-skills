@@ -1,0 +1,5 @@
+[project]
+name = "rayfernando-skills"
+version = "0.1.0"
+description = "Ray Fernando's collection of Skill files for AI coding agents. First up: running-bug-review-board, a real-user QA workflow with a Bug Review Board (BRB) feedback loop."
+requires-python = ">=3.10"
