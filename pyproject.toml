@@ -5,3 +5,4 @@ description = "Ray Fernando's collection of Skill files for AI coding agents. Fi
 requires-python = ">=3.10"
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
